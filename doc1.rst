@@ -1,9 +1,18 @@
-=====
-Title
-=====
+..
+    =====
+    Title
+    =====
 
-This is test document.
-updated in develop branch.
+==========
+ タイトル
+==========
+
+..
+    This is test document.
+    updated in develop branch.
+
+これはテストドキュメントです。
+develop ブランチを更新しました。
 
 Sub Title
 =========
